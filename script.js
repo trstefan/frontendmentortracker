@@ -1,12 +1,13 @@
 const projects = [
   "3-col-cards",
   "four-card-feature-section",
-  "sunnyside-agency-landing-page-main",
-  "testimonials-grid-section-main",
-  "nft-preview-card-component-main",
+  "sunnyside-agency-landing-page",
+  "testimonials-grid-section",
+  "nft-preview-card-component",
   "fylo-landing-page",
   "huddle-landing-page-with-alternating-feature",
-  "clipboard-landing-page"
+  "clipboard-landing-page",
+   "social-proof-section"
 ];
 
 const list = document.getElementById("list-projects");
