@@ -1,24 +1,19 @@
-# Frontend Mentor Tracker
+# Fronted Mentor tracker
+
+## :link:	Live Demo 
+
+## 📷 Screenshot
+
+## 📝 Project Description
 
 HTML tracker that contains my submissions for the Frontend Mentor Challenges.
 
-### Demo
-
-Here is a working live demo : [https://trstefan.github.io/frontendmentortracker/](https://trstefan.github.io/frontendmentortracker/)
-
-### Built With
+## 📚 Technologies
 
 - HTML
 - CSS
 - Javascript
 
-### Screenshots
-#### Tracker 
-![Alternate image text](https://i.ibb.co/w690Mdk/FMT.png)
-
-#### Completed challenge   
-![Alternate image text](https://i.ibb.co/s2V2JsS/FMTSingle.png)
-
-## Acknowledgements
+## :star:	Acknowledgements
 
  - [Frontend Mentor](https://www.frontendmentor.io/challenges)
