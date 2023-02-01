@@ -2,6 +2,8 @@
 
 ## :link:	Live Demo 
 
+[Demo Link](trstefan.github.io/frontendmentortracker/)
+
 ## 📷 Screenshot
 
 ## 📝 Project Description
