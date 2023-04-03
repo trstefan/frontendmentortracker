@@ -11,6 +11,8 @@ fetch("data.json")
       const img = document.createElement("img");
 
       img.src = data[i].icon;
+      img.src = data[i].icon;
+      img.alt = data[i].category;
       p.innerHTML = data[i].category;
       p2.innerHTML = `${data[i].score} / 100`;
 
