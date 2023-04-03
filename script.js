@@ -1,5 +1,6 @@
 const projects = [
   "3-col-cards",
+  "results-summary-component",
   "four-card-feature-section",
   "sunnyside-agency-landing-page",
   "testimonials-grid-section",
@@ -7,7 +8,7 @@ const projects = [
   "fylo-landing-page",
   "huddle-landing-page-with-alternating-feature",
   "clipboard-landing-page",
-   "social-proof-section"
+  "social-proof-section",
 ];
 
 const list = document.getElementById("list-projects");
